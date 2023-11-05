@@ -41,4 +41,4 @@
      ["My","name", "is","cool"],
   
  ]
- console.log(`${createASentence[1][0]} ${createASentence[1][1]} ${createASentence[1][2]} ${createASentence[0][2]}`);
+ console.log(`${createASentence[1][0]} ${createASentence[1][1]} ${createASentence[1][2]} ${createASentence[0][2]}`);  
